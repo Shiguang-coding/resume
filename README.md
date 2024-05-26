@@ -1,54 +1,28 @@
-[![star](https://gitee.com/itsay/resume/badge/star.svg?theme=white)](https://gitee.com/itsay/resume/stargazers)    [![fork](https://gitee.com/itsay/resume/badge/fork.svg?theme=white)](https://gitee.com/itsay/resume/members)
 
-# 个人简历模板
 
-[http://itsay.gitee.io/resume](http://itsay.gitee.io/resume)
+# 简历模板
 
-## Intro
+# 介绍说明
 
-此简历模板：
+一个在线简历模板
 
-- 内容上，来源于我本人真实求职经历以及参加多次网上简历培训总结而成
-- 风格上，参考众多简历风格，@DIYgod，@ekCit以及~~我自己的博客主题 [itsay.me](http://itsay.me)~~
+![image-20240526155031493](https://img2023.cnblogs.com/blog/2233039/202405/2233039-20240526155043992-1525140890.png)
 
-欢迎提issue或者star，ღ( ´･ᴗ･` )比心
 
-## Object
 
-前端求职/程序员求职
+# 在线预览
 
-## Usage
+https://resume.shiguang666.eu.org/
 
-1. 先Star/Fork本项目，然后Clone或者直接下载到本地
-2. 修改index.html内相关信息
-3. 微调样式（作为前端求职，这点应该不成问题）
-4. 生成pdf(开发中)
-5. 部署到线上
-6. 生成访问二维码（开发中）
-7. 祝您求职成功！
+# 免责声明
 
-## Preview
+> 二○○二年一月一日《计算机软件保护条例》第十七条规定：为了学习和研究软件内含的设计思想和原理，通过安装、显示、传输或者存储软件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬！
 
-### PC端
-![](assets/images/pc.png)
 
-### 移动端
-![](assets/images/ip.png)
 
-## TODO
-- [x] 左栏固定（切换）
-- [ ] 输出pdf功能
-- [ ] 可编辑
+此资源内容来源于网络，仅限用于学习和研究目的，不得将上述内容用于商业或者非法用途，否则一切后果自负。
 
-## ChangeLog
-- 2017.3.7 创建模板
-- 2017.3.12 移动端优化
-- 2017.12.20 修改部分内容
-- 2018.6.20 新增左栏固定功能（切换）
+您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。请支持正版。
 
-## Acknowledgments
-- font-awesome提供字体图标
+版权归原作者或公司所有，如果有侵犯到您的权益，请第一时间联系邮箱：an_shiguang@163.com
 
-## LICENSE
-
-MIT © [ITSAY](http://blog.if2er.com)
